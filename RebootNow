@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Reboot Now!
-# The infamous 'shutdown script' 
+# Based on the infamous 'shutdown script' 
 # authored on Dec-31-2022
 # by b4t54ndw1ch
 
 # Version 1
-# Notes: rbnver1 is designed to be a single file that 
+# Notes: RebootNow! is designed to be a single file that 
 # resides on the desktop.  It is designed to look like a button
 # and reboot the computer down with one click, thereby achieving
 # the fastest possible safe system reboot. 
